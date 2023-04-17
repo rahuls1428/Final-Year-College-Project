@@ -1,2 +1,2 @@
 # Final-Year-College-Project
- Moving Object Detection and Tracking project made during Final Year Project elective. It utilizes python, openCV, MobileNetSSD, and other technologies. A pdf of the project is attached for perusal. MobilenetSSD is an object detection model that computes the bounding box and category of an object from an input image.
+       The Moving Object Detection and Tracking project was developed during the senior year of university as part of the Final Year Project, using Python, OpenCV, MobileNetSSD, and other relevant technologies. MobileNetSSD is an efficient object detection model that computes object category and bounding box accurately from input images. The project report is attached for review purposes. 
